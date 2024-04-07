@@ -1,0 +1,25 @@
+﻿src
+├── main
+│   ├── java
+│   │   └── com
+│   │       └── dd
+│   │           ├── controller
+│   │           │   └── StudentController.java
+│   │           ├── dto
+│   │           │   └── StudentDTO.java
+│   │           ├── entity
+│   │           │   └── Student.java
+│   │           ├── exception
+│   │           │   ├── DataNotFoundException.java
+│   │           │   └── IdNotFoundException.java
+│   │           ├── repo
+│   │           │   └── StudentRepo.java
+│   │           └── service
+│   │               ├── StudentService.java
+│   │               └── impl
+│   │                   └── StudentServiceImpl.java
+│   ├── resources
+│   │   └── application.properties
+│   └── webapp
+└── test
+    └── java
